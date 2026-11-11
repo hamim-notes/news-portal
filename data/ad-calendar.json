@@ -1,2 +1,177 @@
-
+[
+ {
+  "id": "du",
+  "name": "University of Dhaka (DU)",
+  "nameBn": "ঢাকা বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "mist",
+  "name": "MIST",
+  "nameBn": "এমআইএসটি",
+  "cat": "Engineering"
+ },
+ {
+  "id": "ku",
+  "name": "Khulna University (KU)",
+  "nameBn": "খুলনা বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "jnu",
+  "name": "Jagannath University (JnU)",
+  "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "ru",
+  "name": "Rajshahi University (RU)",
+  "nameBn": "রাজশাহী বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "kuet",
+  "name": "KUET",
+  "nameBn": "কুয়েট",
+  "cat": "Engineering"
+ },
+ {
+  "id": "ruet",
+  "name": "RUET",
+  "nameBn": "রুয়েট",
+  "cat": "Engineering"
+ },
+ {
+  "id": "cu",
+  "name": "Chittagong University (CU)",
+  "nameBn": "চট্টগ্রাম বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "gst",
+  "name": "GST Cluster (General, Science & Tech)",
+  "nameBn": "গুচ্ছ (GST) ভর্তি",
+  "cat": "Cluster"
+ },
+ {
+  "id": "buet",
+  "name": "BUET",
+  "nameBn": "বুয়েট",
+  "cat": "Engineering"
+ },
+ {
+  "id": "mbbs",
+  "name": "Medical (MBBS/BDS)",
+  "nameBn": "মেডিকেল (MBBS/BDS)",
+  "cat": "Medical"
+ },
+ {
+  "id": "cou",
+  "name": "Comilla University (CoU)",
+  "nameBn": "কুমিল্লা বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "butex",
+  "name": "BUTEX",
+  "nameBn": "বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় (BUTEX)",
+  "cat": "Public"
+ },
+ {
+  "id": "cuet",
+  "name": "CUET",
+  "nameBn": "চুয়েট",
+  "cat": "Engineering"
+ },
+ {
+  "id": "agri",
+  "name": "Agri Cluster",
+  "nameBn": "কৃষি গুচ্ছ",
+  "cat": "Cluster"
+ },
+ {
+  "id": "sust",
+  "name": "SUST",
+  "nameBn": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (SUST)",
+  "cat": "Public"
+ },
+ {
+  "id": "hstu",
+  "name": "HSTU",
+  "nameBn": "হাজী দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (HSTU)",
+  "cat": "Public"
+ },
+ {
+  "id": "bup",
+  "name": "BUP",
+  "nameBn": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস (BUP)",
+  "cat": "Public"
+ },
+ {
+  "id": "maritime",
+  "name": "Maritime University",
+  "nameBn": "মেরিটাইম বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "aviation",
+  "name": "Aviation University (AAUB)",
+  "nameBn": "এভিয়েশন বিশ্ববিদ্যালয় (AAUB)",
+  "cat": "Public"
+ },
+ {
+  "id": "ju",
+  "name": "Jahangirnagar University (JU)",
+  "nameBn": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ },
+ {
+  "id": "afmc",
+  "name": "AFMC",
+  "nameBn": "এএফএমসি",
+  "cat": "Medical"
+ },
+ {
+  "id": "iut",
+  "name": "IUT",
+  "nameBn": "আইইউটি",
+  "cat": "Engineering"
+ },
+ {
+  "id": "dcu",
+  "name": "Dhaka Central University",
+  "nameBn": "ঢাকা সেন্ট্রাল ইউনিভার্সিটি",
+  "cat": "Private"
+ },
+ {
+  "id": "nursing",
+  "name": "Nursing",
+  "nameBn": "নার্সিং",
+  "cat": "Medical"
+ },
+ {
+  "id": "butexcol",
+  "name": "BUTEX affiliated colleges",
+  "nameBn": "বুটেক্স অধিভুক্ত কলেজ",
+  "cat": "Public"
+ },
+ {
+  "id": "dutech",
+  "name": "DU Technology unit",
+  "nameBn": "ঢাবি প্রযুক্তি ইউনিট",
+  "cat": "Public"
+ },
+ {
+  "id": "bhpi",
+  "name": "BHPI",
+  "nameBn": "বাংলাদেশ হেলথ প্রফেশনস ইনস্টিটিউট (BHPI)",
+  "cat": "Medical"
+ },
+ {
+  "id": "nu",
+  "name": "National University (NU)",
+  "nameBn": "জাতীয় বিশ্ববিদ্যালয়",
+  "cat": "Public"
+ }
+]
  
