@@ -53,17 +53,25 @@
   "nameBn": "এমআইএসটি",
   "cat": "Engineering",
   "status": "confirmed",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission test day 1",
-    "labelBn": "ভর্তি পরীক্ষা (১ম দিন)",
-    "start": "2026-12-18T00:00:00+06:00",
+    "label": "C unit admission test",
+    "labelBn": "সি ইউনিট ভর্তি পরীক্ষা",
+    "start": "2027-02-05T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "Admission test day 2",
-    "labelBn": "ভর্তি পরীক্ষা (২য় দিন)",
-    "start": "2026-12-19T00:00:00+06:00",
+    "label": "B unit admission test",
+    "labelBn": "বি ইউনিট ভর্তি পরীক্ষা",
+    "start": "2027-02-06T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "A unit admission test",
+    "labelBn": "এ ইউনিট ভর্তি পরীক্ষা",
+    "start": "2027-02-06T00:00:00+06:00",
     "time": false
    }
   ]
@@ -74,19 +82,31 @@
   "nameBn": "খুলনা বিশ্ববিদ্যালয়",
   "cat": "Public",
   "status": "confirmed",
-  "note": "Detailed schedule to be announced",
-  "noteBn": "বিস্তারিত সময়সূচি পরে জানানো হবে",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission test day 1",
-    "labelBn": "ভর্তি পরীক্ষা (১ম দিন)",
-    "start": "2026-12-17T00:00:00+06:00",
+    "label": "A unit exam (Science)",
+    "labelBn": "এ ইউনিট পরীক্ষা (বিজ্ঞান)",
+    "start": "2027-02-04T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "Admission test day 2",
-    "labelBn": "ভর্তি পরীক্ষা (২য় দিন)",
-    "start": "2026-12-18T00:00:00+06:00",
+    "label": "B unit exam (Biological Science)",
+    "labelBn": "বি ইউনিট পরীক্ষা (জীববিজ্ঞান)",
+    "start": "2027-02-04T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "D unit exam (Business)",
+    "labelBn": "ডি ইউনিট পরীক্ষা (বাণিজ্য)",
+    "start": "2027-02-05T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "C unit exam (Humanities)",
+    "labelBn": "সি ইউনিট পরীক্ষা (মানবিক)",
+    "start": "2027-02-05T00:00:00+06:00",
     "time": false
    }
   ]
@@ -97,11 +117,37 @@
   "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
   "cat": "Public",
   "status": "confirmed",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission tests begin",
-    "labelBn": "ভর্তি পরীক্ষা শুরু",
+    "label": "A unit exam (Science)",
+    "labelBn": "এ ইউনিট পরীক্ষা (বিজ্ঞান)",
     "start": "2027-01-01T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "E unit exam (Fine Arts)",
+    "labelBn": "ই ইউনিট পরীক্ষা (চারুকলা)",
+    "start": "2027-01-08T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "B unit exam (Humanities)",
+    "labelBn": "বি ইউনিট পরীক্ষা (মানবিক)",
+    "start": "2027-01-15T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "C unit exam (Business)",
+    "labelBn": "সি ইউনিট পরীক্ষা (বাণিজ্য)",
+    "start": "2027-01-22T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "D unit exam (Social Science)",
+    "labelBn": "ডি ইউনিট পরীক্ষা (সমাজবিজ্ঞান)",
+    "start": "2027-01-23T00:00:00+06:00",
     "time": false
    }
   ]
@@ -123,21 +169,21 @@
     "time": false
    },
    {
-    "label": "B unit exam",
-    "labelBn": "বি ইউনিট পরীক্ষা",
-    "start": "2027-01-08T00:00:00+06:00",
+    "label": "B unit exam (Business)",
+    "labelBn": "বি ইউনিট পরীক্ষা (বাণিজ্য)",
+    "start": "2027-02-12T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "C unit exam",
-    "labelBn": "সি ইউনিট পরীক্ষা",
-    "start": "2027-01-09T00:00:00+06:00",
+    "label": "C unit exam (Science)",
+    "labelBn": "সি ইউনিট পরীক্ষা (বিজ্ঞান)",
+    "start": "2027-02-13T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "A unit exam",
-    "labelBn": "এ ইউনিট পরীক্ষা",
-    "start": "2027-01-16T00:00:00+06:00",
+    "label": "A unit exam (Humanities)",
+    "labelBn": "এ ইউনিট পরীক্ষা (মানবিক)",
+    "start": "2027-02-20T00:00:00+06:00",
     "time": false
    }
   ]
@@ -182,11 +228,49 @@
   "nameBn": "চট্টগ্রাম বিশ্ববিদ্যালয়",
   "cat": "Public",
   "status": "confirmed",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission tests begin",
-    "labelBn": "ভর্তি পরীক্ষা শুরু",
+    "label": "C unit exam (Business)",
+    "labelBn": "সি ইউনিট পরীক্ষা (বাণিজ্য)",
     "start": "2027-01-29T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "A unit exam (Science)",
+    "labelBn": "এ ইউনিট পরীক্ষা (বিজ্ঞান)",
+    "start": "2027-01-30T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "B1 unit exam",
+    "labelBn": "বি১ ইউনিট পরীক্ষা",
+    "start": "2027-02-03T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "B2 unit exam",
+    "labelBn": "বি২ ইউনিট পরীক্ষা",
+    "start": "2027-02-04T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "B unit exam (Humanities)",
+    "labelBn": "বি ইউনিট পরীক্ষা (মানবিক)",
+    "start": "2027-02-05T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "D unit exam (Social Science)",
+    "labelBn": "ডি ইউনিট পরীক্ষা (সমাজবিজ্ঞান)",
+    "start": "2027-02-06T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "D1 unit exam",
+    "labelBn": "ডি১ ইউনিট পরীক্ষা",
+    "start": "2027-02-08T00:00:00+06:00",
     "time": false
    }
   ]
@@ -197,12 +281,24 @@
   "nameBn": "গুচ্ছ (GST) ভর্তি",
   "cat": "Cluster",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "A unit exam",
-    "labelBn": "এ ইউনিট পরীক্ষা",
+    "label": "B unit exam (Humanities)",
+    "labelBn": "বি ইউনিট পরীক্ষা (মানবিক)",
+    "start": "2027-03-19T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "C unit exam (Business)",
+    "labelBn": "সি ইউনিট পরীক্ষা (বাণিজ্য)",
+    "start": "2027-03-20T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "A unit exam (Science)",
+    "labelBn": "এ ইউনিট পরীক্ষা (বিজ্ঞান)",
     "start": "2027-03-27T00:00:00+06:00",
     "time": false
    }
@@ -230,10 +326,17 @@
   "name": "Medical (MBBS/BDS)",
   "nameBn": "মেডিকেল (MBBS/BDS)",
   "cat": "Medical",
-  "status": "tba",
-  "note": "2026-27 dates not announced yet",
-  "noteBn": "২০২৬-২৭ এর তারিখ এখনো ঘোষণা হয়নি",
-  "events": []
+  "status": "confirmed",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "events": [
+   {
+    "label": "Medical & dental admission test",
+    "labelBn": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষা",
+    "start": "2026-12-18T00:00:00+06:00",
+    "time": false
+   }
+  ]
  },
  {
   "id": "cou",
@@ -299,13 +402,31 @@
   "nameBn": "কৃষি গুচ্ছ",
   "cat": "Cluster",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
     "label": "Admission test",
     "labelBn": "ভর্তি পরীক্ষা",
     "start": "2027-01-02T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "A unit exam",
+    "labelBn": "এ ইউনিট পরীক্ষা",
+    "start": "2027-02-05T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "B unit exam",
+    "labelBn": "বি ইউনিট পরীক্ষা",
+    "start": "2027-02-06T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "C unit exam",
+    "labelBn": "সি ইউনিট পরীক্ষা",
+    "start": "2027-02-07T00:00:00+06:00",
     "time": false
    }
   ]
@@ -316,19 +437,19 @@
   "nameBn": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (SUST)",
   "cat": "Public",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission test day 1",
-    "labelBn": "ভর্তি পরীক্ষা (১ম দিন)",
-    "start": "2027-01-26T00:00:00+06:00",
+    "label": "A unit admission test",
+    "labelBn": "এ ইউনিট ভর্তি পরীক্ষা",
+    "start": "2027-01-17T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "Admission test day 2",
-    "labelBn": "ভর্তি পরীক্ষা (২য় দিন)",
-    "start": "2027-01-27T00:00:00+06:00",
+    "label": "B unit admission test",
+    "labelBn": "বি ইউনিট ভর্তি পরীক্ষা",
+    "start": "2027-01-18T00:00:00+06:00",
     "time": false
    }
   ]
@@ -356,13 +477,37 @@
   "nameBn": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস (BUP)",
   "cat": "Public",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
+   {
+    "label": "FBS admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FBS)",
+    "start": "2027-01-01T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "FASS admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FASS)",
+    "start": "2027-01-02T00:00:00+06:00",
+    "time": false
+   },
    {
     "label": "Admission test (FST, FET & FMS)",
     "labelBn": "ভর্তি পরীক্ষা (FST, FET ও FMS)",
     "start": "2027-01-08T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "FSSS admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FSSS)",
+    "start": "2027-01-08T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "FBS admission test (2nd date)",
+    "labelBn": "ভর্তি পরীক্ষা (FBS, ২য় তারিখ)",
+    "start": "2027-01-09T00:00:00+06:00",
     "time": false
    }
   ]
@@ -373,18 +518,30 @@
   "nameBn": "মেরিটাইম বিশ্ববিদ্যালয়",
   "cat": "Public",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
-    "label": "Admission test day 1",
-    "labelBn": "ভর্তি পরীক্ষা (১ম দিন)",
+    "label": "FMGP admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FMGP)",
     "start": "2026-12-29T00:00:00+06:00",
     "time": false
    },
    {
-    "label": "Admission test day 2",
-    "labelBn": "ভর্তি পরীক্ষা (২য় দিন)",
+    "label": "FSA admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FSA)",
+    "start": "2026-12-29T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "FEOS admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FEOS)",
+    "start": "2026-12-30T00:00:00+06:00",
+    "time": false
+   },
+   {
+    "label": "FET admission test",
+    "labelBn": "ভর্তি পরীক্ষা (FET)",
     "start": "2026-12-30T00:00:00+06:00",
     "time": false
    }
@@ -392,17 +549,17 @@
  },
  {
   "id": "aviation",
-  "name": "Aviation University",
-  "nameBn": "এভিয়েশন বিশ্ববিদ্যালয়",
+  "name": "Aviation University (AAUB)",
+  "nameBn": "এভিয়েশন বিশ্ববিদ্যালয় (AAUB)",
   "cat": "Public",
   "status": "confirmed",
-  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
-  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
+  "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
     "label": "Admission test",
     "labelBn": "ভর্তি পরীক্ষা",
-    "start": "2026-12-05T00:00:00+06:00",
+    "start": "2027-01-30T00:00:00+06:00",
     "time": false
    }
   ]
@@ -497,4 +654,5 @@
   "noteBn": "তারিখ এখনো ঘোষণা হয়নি",
   "events": []
  }
+]
 ]
