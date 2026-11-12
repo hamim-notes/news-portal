@@ -57,6 +57,13 @@
   "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
+    "label": "Online application",
+    "labelBn": "অনলাইনে আবেদন",
+    "start": "2027-01-05T00:00:00+06:00",
+    "end": "2027-01-21T23:59:00+06:00",
+    "time": false
+   },
+   {
     "label": "C unit admission test",
     "labelBn": "সি ইউনিট ভর্তি পরীক্ষা",
     "start": "2027-02-05T00:00:00+06:00",
@@ -121,6 +128,13 @@
   "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
    {
+    "label": "Online application",
+    "labelBn": "অনলাইনে আবেদন",
+    "start": "2026-11-25T00:00:00+06:00",
+    "end": "2026-12-10T23:59:00+06:00",
+    "time": false
+   },
+   {
     "label": "A unit exam (Science)",
     "labelBn": "এ ইউনিট পরীক্ষা (বিজ্ঞান)",
     "start": "2027-01-01T00:00:00+06:00",
@@ -164,8 +178,8 @@
    {
     "label": "Preliminary application",
     "labelBn": "প্রাথমিক আবেদন",
-    "start": "2026-11-12T00:00:00+06:00",
-    "end": "2026-11-27T23:59:00+06:00",
+    "start": "2026-11-15T00:00:00+06:00",
+    "end": "2026-11-30T23:59:00+06:00",
     "time": false
    },
    {
@@ -197,6 +211,13 @@
   "note": "Held in Khulna, Dhaka and Rajshahi",
   "noteBn": "খুলনা, ঢাকা ও রাজশাহীতে একযোগে",
   "events": [
+   {
+    "label": "Online application",
+    "labelBn": "অনলাইনে আবেদন",
+    "start": "2026-11-10T00:00:00+06:00",
+    "end": "2026-12-10T23:59:00+06:00",
+    "time": false
+   },
    {
     "label": "First-year admission test",
     "labelBn": "প্রথম বর্ষ ভর্তি পরীক্ষা",
@@ -231,6 +252,13 @@
   "note": "Dates from the ACS schedule (updated 11 Nov 2026); confirm on the official site",
   "noteBn": "তারিখ ACS শিডিউল (১১ নভেম্বর ২০২৬ আপডেট) থেকে; অফিসিয়াল সাইটে যাচাই করুন",
   "events": [
+   {
+    "label": "Online application",
+    "labelBn": "অনলাইনে আবেদন",
+    "start": "2026-12-10T00:00:00+06:00",
+    "end": "2027-01-10T23:59:00+06:00",
+    "time": false
+   },
    {
     "label": "C unit exam (Business)",
     "labelBn": "সি ইউনিট পরীক্ষা (বাণিজ্য)",
@@ -310,9 +338,15 @@
   "nameBn": "বুয়েট",
   "cat": "Engineering",
   "status": "confirmed",
-  "note": "Exam date from the AD-CLANDER sheet; application dates not announced yet",
-  "noteBn": "পরীক্ষার তারিখ AD-CLANDER শিট থেকে; আবেদনের তারিখ এখনো ঘোষণা হয়নি",
+  "note": "Applications open 21 Nov; closing date not announced yet",
+  "noteBn": "আবেদন শুরু ২১ নভেম্বর; শেষ তারিখ এখনো ঘোষণা হয়নি",
   "events": [
+   {
+    "label": "Application opens",
+    "labelBn": "আবেদন শুরু",
+    "start": "2026-11-21T00:00:00+06:00",
+    "time": false
+   },
    {
     "label": "Admission test",
     "labelBn": "ভর্তি পরীক্ষা",
@@ -350,9 +384,9 @@
    {
     "label": "Online application",
     "labelBn": "অনলাইনে আবেদন",
-    "start": "2026-11-15T00:00:00+06:00",
-    "time": false,
-    "end": "2026-12-10T23:59:00+06:00"
+    "start": "2026-12-10T00:00:00+06:00",
+    "end": "2026-12-31T23:59:00+06:00",
+    "time": false
    },
    {
     "label": "Admission test",
@@ -569,10 +603,17 @@
   "name": "Jahangirnagar University (JU)",
   "nameBn": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
   "cat": "Public",
-  "status": "tba",
-  "note": "Dates not announced yet",
-  "noteBn": "তারিখ এখনো ঘোষণা হয়নি",
-  "events": []
+  "status": "confirmed",
+  "note": "Date from the AD-CLANDER sheet; confirm on the official site",
+  "noteBn": "তারিখ AD-CLANDER শিট থেকে; অফিসিয়াল সাইটে যাচাই করুন",
+  "events": [
+   {
+    "label": "Admission tests (10–21 Jan)",
+    "labelBn": "ভর্তি পরীক্ষা (১০–২১ জানুয়ারি)",
+    "start": "2027-01-10T00:00:00+06:00",
+    "time": false
+   }
+  ]
  },
  {
   "id": "afmc",
